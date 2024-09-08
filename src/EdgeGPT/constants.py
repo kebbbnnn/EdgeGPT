@@ -28,9 +28,8 @@ HEADERS = {
     "sec-ms-gec-version": "1-115.0.1901.188",
     "x-ms-client-request-id": str(uuid.uuid4()),
     "x-ms-useragent": "azsdk-js-api-client-factory/1.0.0-beta.1 core-rest-pipeline/1.10.3 OS/Windows",
-    "Referer": "https://www.bing.com/search?",
+    "Referer": "https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx",
     "Referrer-Policy": "origin-when-cross-origin",
-    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188",
     "x-forwarded-for": FORWARDED_IP,
 }
 
